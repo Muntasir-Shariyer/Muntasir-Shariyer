@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love solving problems whether it is critical system <br>bugs or requirements difficulty. <br>While designing and coding any system,<br>my primary focus is always on the system/app performance,<br>clean coding, following best system design and practices, <br>and writing code that anybody can easily understand. <br><br>Currently focusing on Data science, playing with<br>machine learning algorithms, and applying them efficiently. 🎯
+<H4>I love solving problems whether it is critical system <br>bugs or requirements difficulty. <br>While designing and coding any system,<br>my primary focus is always on the system/app performance,<br>clean coding, following best system design and practices, <br>and writing code that anybody can easily understand. <br><br>Currently focusing on Data science, playing with<br>machine learning algorithms, and applying them efficiently. 🎯
 
 
 ## 🌐 Socials:
